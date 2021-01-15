@@ -1,2 +1,6 @@
+# Folders
 logs/
 saves/
+
+# Files
+reauth.toml
