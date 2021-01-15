@@ -1,0 +1,13 @@
+
+["Line Thickness"]
+	#Range: 1 ~ 4
+	"line thickness" = 2
+
+[Color]
+	#Range: 0 ~ 255
+	red = 255
+	#Range: 0 ~ 255
+	green = 255
+	#Range: 0 ~ 255
+	blue = 255
+

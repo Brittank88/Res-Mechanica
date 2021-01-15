@@ -1,0 +1,27 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.MainMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 6
+}
+
+customization {
+  identifier = %id=400346%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
