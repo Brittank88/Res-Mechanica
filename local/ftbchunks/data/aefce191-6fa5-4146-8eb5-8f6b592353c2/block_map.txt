@@ -33,6 +33,7 @@
 #657B45 minecraft:bone_block
 #7F5F84 theabyss:bone_block_abyss
 #8F453F theabyss:bone_block_thin
+#F82DAB minecraft:brown_wall_banner
 #5C47C2 biomesoplenty:bush
 #C6AC20 minecraft:cactus
 #3FD900 mysticalworld:charred_log
@@ -43,7 +44,10 @@
 #058353 minecraft:cobblestone
 #74DB3C minecraft:cobblestone_wall
 #E2D601 minecraft:composter
+#621AE2 computercraft:computer_command
+#AA7746 computercraft:computer_normal
 #6BB940 create:copper_ore
+#179BD9 mekanism:copper_ore
 #54193C mysticalworld:copper_ore
 #809605 thermal:copper_ore
 #CC07F6 minecraft:cornflower
@@ -106,6 +110,7 @@
 #AD9EB5 minecraft:oak_leaves
 #BBA6D1 minecraft:oak_log
 #72BC63 minecraft:oak_stairs
+#4A5E4E minecraft:obsidian
 #591473 quark:orange_blossom_leaves
 #4A3089 minecraft:orange_terracotta
 #8F6314 minecraft:orange_tulip
@@ -115,6 +120,7 @@
 #44E938 minecraft:polished_andesite_stairs
 #AFAC0D minecraft:poppy
 #6DC9E1 minecraft:potted_cactus
+#E6B35B minecraft:pumpkin
 #F0410F appliedenergistics2:quartz_ore
 #24BE64 minecraft:redstone_torch
 #F62229 theabyss:ricom_flower
@@ -124,6 +130,7 @@
 #7E2654 minecraft:sandstone
 #38B5DB minecraft:sandstone_stairs
 #9EF0DB minecraft:sandstone_wall
+#257ED7 create:schematicannon
 #FD7AC1 byg:scoria_stone
 #705189 minecraft:sea_lantern
 #969FCD theabyss:shroomblock1
@@ -153,6 +160,7 @@
 #9B7AB3 theabyss:stoneabyssblock
 #9209D8 minecraft:terracotta
 #F188BC mysticalworld:tin_ore
+#750605 computercraft:turtle_normal
 #25F8B7 mekanism:uranium_ore
 #88779D minecraft:vine
 #1C0619 waystones:waystone

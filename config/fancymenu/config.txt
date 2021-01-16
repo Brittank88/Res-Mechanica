@@ -12,7 +12,7 @@ I:defaultguiscale = '-1';
 
 ##[customization]
 
-B:showcustomizationbuttons = 'true';
+B:showcustomizationbuttons = 'false';
 [Maximizes mod compatibility. Disables background customization support for scrollable menu screens. Restart is needed after changing this value.]
 B:softmode = 'false';
 B:legacybuttonids = 'false';
