@@ -125,4 +125,6 @@
 	[misc.misc]
 		# Given or not given the Rainbow Coal to our champion
 		coal = false
+		# Enable or disable the Rainbow Content
+		rainbow = true
 

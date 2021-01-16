@@ -41,11 +41,11 @@
 		#Range: 0 ~ 1024
 		deathDecreasedHealthAmount = 2
 		#The starting health for the player. Possible values are MIN, MAX or just a number
-		startingHealthAmount = 20
+		startingHealthAmount = "MIN"
 
 	[health.additional]
 		#Config options which should be considered for the reset of health. All available are used by default
-		configChangeReset = [] # ["MIN_HEALTH", "MAX_HEALTH", "STARTING_HEALTH"]
+		configChangeReset = []
 		#Show a message when a threshold is reached and when health is gained or lost
 		healthChangeMessage = true
 		#Enables 'hardcore' mode which makes the player a spectator when 0 max health is reached.
@@ -58,5 +58,5 @@
 		#Items that increase/decrease health when used. Use an equal sign to define how much health is gained or lost.
 		#e.g. 'minecraft:apple = 1', the health gets increased by 0.5 hearts.
 		#Appending a ':' after the number will make the item that decreases health also bypass healthThresholds
-		regenerativeItems = [] # ["minecraft:nether_star = 1"]
+		regenerativeItems = []
 
