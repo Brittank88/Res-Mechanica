@@ -1,1 +1,16 @@
-{"bookGuiScale":0,"clickedVisualize":false,"bookData":{}}
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "theabyss:abyssbookitem": {
+      "viewedEntries": [
+        "theabyss:page_types/3"
+      ],
+      "bookmarks": [],
+      "history": [
+        "theabyss:page_types/3"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

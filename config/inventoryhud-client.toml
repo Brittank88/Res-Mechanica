@@ -3,20 +3,20 @@
 [inventoryhud]
 	#Inventory HUD vertical align
 	#Allowed Values: TOP, CENTER, BOTTOM
-	invValign = "BOTTOM"
+	invValign = "CENTER"
 	#Inventory HUD horizontal align
 	#Allowed Values: LEFT, MIDDLE, RIGHT
-	invHalign = "MIDDLE"
+	invHalign = "RIGHT"
 	#Inventory HUD position (X)
 	#Range: -9999 ~ 9999
-	xPos = 0
+	xPos = 40
 	#Inventory HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPos = 150
+	yPos = 0
 	#Inventory HUD mini mode
-	invMini = false
+	invMini = true
 	#Inventory HUD vertical mode
-	invVert = false
+	invVert = true
 	#Toggle on by default
 	byDefault = true
 
@@ -46,7 +46,7 @@
 	#Allowed Values: PERCENTAGE, DAMAGE, DAMAGE_LEFT
 	armView = "PERCENTAGE"
 	#Show item durability bar
-	armBars = false
+	armBars = true
 
 #Settings for Potions HUD
 [potionshud]
@@ -60,10 +60,10 @@
 	potHalign = "LEFT"
 	#Potion HUD position (X)
 	#Range: -9999 ~ 9999
-	xPotionPos = 20
+	xPotionPos = 0
 	#Potion HUD position (Y)
 	#Range: -9999 ~ 9999
-	yPotionPos = 20
+	yPotionPos = 0
 	#Potion HUD alpha
 	#Range: 0 ~ 100
 	potAlpha = 100
@@ -71,5 +71,5 @@
 	#Range: -5 ~ 5
 	potGap = 0
 	#Potion HUD mini mode
-	potMini = false
+	potMini = true
 
