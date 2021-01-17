@@ -1,1 +1,28 @@
-{}
+{
+  "main": {
+    "0": {
+      "title": "Fullscreen Map",
+      "icon": {
+        "stack": "{id:\"minecraft:map\",Count:1b}"
+      },
+      "action": {
+        "key": {
+          "key": "key.ftbchunks.map",
+          "toggle": false
+        }
+      }
+    },
+    "5": {
+      "title": "Give WorldEdit Wand",
+      "icon": {
+        "stack": "{id:\"worldedit:wand\",Count:1b}"
+      },
+      "action": {
+        "command": {
+          "command": "/give @s worldedit:wand 1",
+          "clipboard": false
+        }
+      }
+    }
+  }
+}

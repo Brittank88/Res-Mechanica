@@ -10,6 +10,7 @@
 #7F0 biomesoplenty:dryland
 #348 theabyss:exombiome
 #351 biomesoplenty:highland_moor
+#65C biomesoplenty:lavender_field
 #326 theabyss:lirombiome
 #3DC minecraft:plains
 #4FE biomesoplenty:prairie
@@ -17,6 +18,7 @@
 #76B terraforged:savanna_scrub
 #274 biomesoplenty:scrubland
 #480 theabyss:souldabyss
+#774 minecraft:sunflower_plains
 #7D2 theabyss:theabyssbiome
 #1C8 theabyss:theabyssbiomedim
 #7FC theabyss:theabyssbiomedim2
