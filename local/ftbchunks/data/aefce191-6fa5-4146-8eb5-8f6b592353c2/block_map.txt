@@ -12,6 +12,8 @@
 #AF58D4 theabyss:abyssmountainplanta
 #EF4EDA theabyss:abyssoak
 #3CF635 theabyss:abyssoaktrapdoor
+#B1CD7A theabyss:abyssportalstone
+#4B0E45 theabyss:abyssportalstonedecblock
 #A0B46E theabyss:abyssredleaves
 #309735 theabyss:abysssand
 #2FF2F8 theabyss:abyssstonebricks
@@ -97,6 +99,7 @@
 #9FE1B1 theabyss:hellflower
 #908D33 theabyss:hellflower2
 #908D35 theabyss:hellflower4
+#7BF255 theabyss:helloak
 #286897 mysticalagriculture:inferium_ore
 #D7EADE minecraft:iron_ore
 #9CF827 cyclic:item_infinite
@@ -114,17 +117,20 @@
 #B80AA2 astralsorcery:marble_raw
 #80CAA6 minecraft:melon
 #618FD5 integrateddynamics:menril_leaves
+#95C802 ironfurnaces:million_furnace
 #E4702F theabyss:mossy_abyss_gravel
 #F41977 theabyss:mossy_abyss_gravel_fake
 #F093B4 minecraft:mossy_cobblestone_slab
 #2F738D minecraft:mossy_stone_brick_slab
 #483B67 minecraft:mossy_stone_bricks
 #974DF9 forbidden_arcanus:mysterywood_sign
+#DDD4D8 ironfurnaces:netherite_furnace
 #454322 minecraft:netherrack
 #AD9EB5 minecraft:oak_leaves
 #BBA6D1 minecraft:oak_log
 #72BC63 minecraft:oak_stairs
 #4A5E4E minecraft:obsidian
+#2D6ABE pneumaticcraft:oil
 #591473 quark:orange_blossom_leaves
 #4A3089 minecraft:orange_terracotta
 #8F6314 minecraft:orange_tulip
@@ -166,6 +172,7 @@
 #AA8DBE theabyss:soulflower3
 #AA8E03 theabyss:soulflowerx
 #EFC7DF theabyss:souloak
+#EE7EAC theabyss:spread_dirt
 #13F5AC minecraft:spruce_leaves
 #753082 minecraft:sticky_piston
 #DC3458 minecraft:stone
