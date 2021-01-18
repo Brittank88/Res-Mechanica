@@ -1,7 +1,7 @@
 # Folders
 /logs/
 /saves/
-!/saves/Test World
+!/saves/Test World/
 
 # Files
 reauth.toml
