@@ -1,0 +1,10 @@
+{
+	uuid: "4bab7771-13ad-49d2-836d-4f6fa2bb712a",
+	name: "Brittank88",
+	can_edit: false,
+	money: 0L,
+	auto_pin: false,
+	task_progress: {},
+	claimed_rewards: [I;],
+	pinned_quests: [I;]
+}
