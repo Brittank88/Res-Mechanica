@@ -57,4 +57,4 @@ B:customwindowicon = 'false';
 ##[layouteditor]
 
 [If the warning when trying to move an vanilla button without an orientation should be displayed or not.]
-B:showvanillamovewarning = 'true';
+B:showvanillamovewarning = 'false';

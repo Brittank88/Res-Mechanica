@@ -1,5 +1,8 @@
 # Folders
 logs/
+crash-reports/
+dumps/
+backups/
 
 # Files
 reauth.toml

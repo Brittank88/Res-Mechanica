@@ -4,10 +4,16 @@
   "bookData": {
     "theabyss:abyssbookitem": {
       "viewedEntries": [
-        "theabyss:page_types/3"
+        "theabyss:page_types/3",
+        "theabyss:page_types2/witherblaze",
+        "theabyss:page_types2/abysscow",
+        "theabyss:page_types2/lirom"
       ],
       "bookmarks": [],
       "history": [
+        "theabyss:page_types2/lirom",
+        "theabyss:page_types2/abysscow",
+        "theabyss:page_types2/witherblaze",
         "theabyss:page_types/3"
       ],
       "completedManualQuests": []

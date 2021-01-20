@@ -70,7 +70,7 @@
 		# 200 ticks is what a regular furnace takes.
 		# Default: 200
 		#Range: 2 ~ 72000
-		speed = 1
+		speed = 2
 
 #Modded Furnace Settings
 [modded_furnaces]
