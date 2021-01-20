@@ -12,6 +12,18 @@
         }
       }
     },
+    "4": {
+      "title": "Hotbar Swapper",
+      "icon": {
+        "stack": "{id:\"sophisticatedbackpacks:refill_upgrade\",Count:1b}"
+      },
+      "action": {
+        "key": {
+          "key": "quark.keybind.change_hotbar",
+          "toggle": false
+        }
+      }
+    },
     "5": {
       "title": "Check Food List",
       "icon": {
@@ -49,7 +61,7 @@
       }
     },
     "8": {
-      "title": "Goto [Ping]",
+      "title": "Go To [Ping]",
       "icon": {
         "stack": "{id:\"ping:icon_goto\",Count:1b}"
       },
