@@ -12,6 +12,15 @@
         }
       }
     },
+    "1": {
+      "title": "Configurations",
+      "icon": {
+        "stack": "{id:\"thermal:iron_gear\",Count:1b}"
+      },
+      "action": {
+        "category": "Configurations"
+      }
+    },
     "4": {
       "title": "Hotbar Swapper",
       "icon": {
@@ -81,6 +90,56 @@
         "key": {
           "key": "ping.key.alert",
           "toggle": false
+        }
+      }
+    }
+  },
+  "Configurations": {
+    "0": {
+      "title": "Inventory HUD+ Config",
+      "icon": {
+        "stack": "{id:\"thermal:bronze_gear\",Count:1b}"
+      },
+      "action": {
+        "key": {
+          "key": "key.inventoryhud.openconfig",
+          "toggle": false
+        }
+      }
+    },
+    "1": {
+      "title": "DynamicSurroundings",
+      "icon": {
+        "stack": "{id:\"thermal:nickel_gear\",Count:1b}"
+      },
+      "action": {
+        "key": {
+          "key": "sndctrl.text.soundconfig.open",
+          "toggle": false
+        }
+      }
+    },
+    "8": {
+      "title": "WorldEdit CUI 3",
+      "icon": {
+        "stack": "{id:\"thermal:emerald_gear\",Count:1b}"
+      },
+      "action": {
+        "key": {
+          "key": "worldeditcuife3.key.cui.options",
+          "toggle": false
+        }
+      }
+    },
+    "9": {
+      "title": "Chunk-Pregenerator",
+      "icon": {
+        "stack": "{id:\"thermal:lumium_gear\",Count:1b}"
+      },
+      "action": {
+        "key": {
+          "key": "Options Gui",
+          "toggle": true
         }
       }
     }
