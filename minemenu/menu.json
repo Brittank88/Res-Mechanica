@@ -21,18 +21,6 @@
         "category": "Configurations"
       }
     },
-    "4": {
-      "title": "Hotbar Swapper",
-      "icon": {
-        "stack": "{id:\"sophisticatedbackpacks:refill_upgrade\",Count:1b}"
-      },
-      "action": {
-        "key": {
-          "key": "quark.keybind.change_hotbar",
-          "toggle": false
-        }
-      }
-    },
     "5": {
       "title": "Check Food List",
       "icon": {
@@ -52,7 +40,7 @@
       },
       "action": {
         "key": {
-          "key": "ping.key.mine",
+          "key": "key.keyboard.f16",
           "toggle": false
         }
       }
@@ -64,19 +52,19 @@
       },
       "action": {
         "key": {
-          "key": "ping.key.look",
+          "key": "key.keyboard.f15",
           "toggle": false
         }
       }
     },
     "8": {
-      "title": "Go To [Ping]",
+      "title": "Goto [Ping]",
       "icon": {
         "stack": "{id:\"ping:icon_goto\",Count:1b}"
       },
       "action": {
         "key": {
-          "key": "ping.key.goto",
+          "key": "key.keyboard.f14",
           "toggle": false
         }
       }
@@ -88,25 +76,13 @@
       },
       "action": {
         "key": {
-          "key": "ping.key.alert",
+          "key": "key.keyboard.f13",
           "toggle": false
         }
       }
     }
   },
   "Configurations": {
-    "0": {
-      "title": "Inventory HUD+ Config",
-      "icon": {
-        "stack": "{id:\"thermal:bronze_gear\",Count:1b}"
-      },
-      "action": {
-        "key": {
-          "key": "key.inventoryhud.openconfig",
-          "toggle": false
-        }
-      }
-    },
     "1": {
       "title": "DynamicSurroundings",
       "icon": {

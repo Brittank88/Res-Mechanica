@@ -1,0 +1,704 @@
+[
+  {
+    "__comment": "For documentation check the project page on CurseForge.",
+    "file_format": 1
+  },
+  {
+    "id": "minecraft:player",
+    "weight": 31,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": true,
+      "particles": true,
+      "side": "RIGHT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    },
+    "player": {
+      "profile": "",
+      "crouching": false,
+      "model": {
+        "cape": true,
+        "jacket": true,
+        "left_sleeve": true,
+        "right_sleeve": true,
+        "left_pants_leg": true,
+        "right_pants_leg": true,
+        "hat": true
+      }
+    }
+  },
+  {
+    "id": "minecraft:player",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": true,
+      "particles": true,
+      "side": "RIGHT"
+    },
+    "data": {
+      "nbt": "{ArmorItems: [{Count: 1, id: \"netherite_boots\"}, {Count: 1, id: \"netherite_leggings\"}, {Count: 1, id: \"netherite_chestplate\"}, {Count: 1, id: \"netherite_helmet\"}]}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    },
+    "player": {
+      "profile": "",
+      "crouching": false,
+      "model": {
+        "cape": true,
+        "jacket": true,
+        "left_sleeve": true,
+        "right_sleeve": true,
+        "left_pants_leg": true,
+        "right_pants_leg": true,
+        "hat": true
+      }
+    }
+  },
+  {
+    "id": "minecraft:zombified_piglin",
+    "weight": 13,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:zombified_piglin",
+    "weight": 2,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{IsBaby: 1, HandItems: [{Count: 1, id: \"golden_sword\"}, {}]}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:chicken",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Passengers: [{IsBaby: 1, id: \"zombified_piglin\", HandItems: [{Count: 1, id: \"golden_sword\"}, {}]}]}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:ghast",
+    "weight": 10,
+    "display": {
+      "scale": 0.4,
+      "x_offset": 0,
+      "y_offset": 24,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:magma_cube",
+    "weight": 5,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Size: 0}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:magma_cube",
+    "weight": 5,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Size: 1}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:magma_cube",
+    "weight": 5,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Size: 3}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:enderman",
+    "weight": 10,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:enderman",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{carriedBlockState: {Name: \"crimson_fungus\"}}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:enderman",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{carriedBlockState: {Name: \"warped_fungus\"}}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:enderman",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{carriedBlockState: {Name: \"crimson_roots\"}}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:enderman",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{carriedBlockState: {Name: \"warped_roots\"}}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:enderman",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{carriedBlockState: {Name: \"crimson_nylium\"}}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:enderman",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{carriedBlockState: {Name: \"warped_nylium\"}}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:blaze",
+    "weight": 16,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:wither_skeleton",
+    "weight": 13,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:skeleton",
+    "weight": 3,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:piglin",
+    "weight": 13,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:piglin",
+    "weight": 3,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{IsBaby: 1}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:piglin_brute",
+    "weight": 6,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:hoglin",
+    "weight": 12,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:hoglin",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Age: -24000}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:hoglin",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Passengers: [{IsBaby: 1, id: \"piglin\"}], Age: -24000}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:hoglin",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Passengers: [{Passengers: [{IsBaby: 1, id: \"piglin\"}], IsBaby: 1, id: \"piglin\"}], Age: -24000}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:hoglin",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Passengers: [{Passengers: [{Passengers: [{IsBaby: 1, id: \"piglin\"}], IsBaby: 1, id: \"piglin\"}], IsBaby: 1, id: \"piglin\"}], Age: -24000}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:zoglin",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:strider",
+    "weight": 10,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:strider",
+    "weight": 2,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Age: -24000}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:strider",
+    "weight": 3,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Passengers: [{id: \"strider\", Age: -24000}]}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  },
+  {
+    "id": "minecraft:strider",
+    "weight": 1,
+    "display": {
+      "scale": 1.0,
+      "x_offset": 0,
+      "y_offset": 0,
+      "nameplate": false,
+      "particles": true,
+      "side": "LEFT"
+    },
+    "data": {
+      "nbt": "{Passengers: [{id: \"zombified_piglin\", HandItems: [{Count: 1, id: \"warped_fungus_on_a_stick\"}, {}]}], Saddle: 1}",
+      "tick": true,
+      "on_ground": true,
+      "in_water": true,
+      "aggressive": false,
+      "walking": false,
+      "in_love": false
+    }
+  }
+]

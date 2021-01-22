@@ -115,6 +115,7 @@
 #D7EADE minecraft:iron_ore
 #9CF827 cyclic:item_infinite
 #F9638E biomesoplenty:jacaranda_leaves
+#56F45F jumbofurnace:jumbo_furnace
 #E234CE minecraft:jungle_fence_gate
 #1251F6 theabyss:jungle_flower
 #C1E251 minecraft:jungle_leaves
@@ -151,6 +152,7 @@
 #4A3089 minecraft:orange_terracotta
 #8F6314 minecraft:orange_tulip
 #F6678E minecraft:oxeye_daisy
+#BD0150 pamhc2trees:pamtamarind
 #9D0C78 pneumaticcraft:plastic_brick_white
 #043CB3 theabyss:poisonore
 #6A5197 minecraft:polished_andesite
