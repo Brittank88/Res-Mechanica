@@ -1553,6 +1553,13 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-01-22 17:08:22 +1100",
+      "minecraft:soul_sand_valley": "2021-01-22 17:07:51 +1100"
+    },
+    "done": false
+  },
   "ironshulkerbox:recipes/ironshulkerbox/shulkerboxes/gray/diamond/silver_diamond_shulker_box": {
     "criteria": {
       "has_the_recipe": "2021-01-17 02:10:19 +1100"
@@ -4270,6 +4277,12 @@
       "has_the_recipe": "2021-01-17 02:10:17 +1100"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:enderman": "2021-01-22 17:35:34 +1100"
+    },
+    "done": false
   },
   "refinedstorage:recipes/refinedstorage/coloring_recipes/lime_crafter_manager": {
     "criteria": {
@@ -10013,6 +10026,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2021-01-22 17:09:43 +1100"
+    },
+    "done": true
+  },
   "mysticalworld:recipes/mysticalworld/ingots_copper_to_9_nuggets": {
     "criteria": {
       "has_the_recipe": "2021-01-17 02:10:20 +1100"
@@ -10977,6 +10996,12 @@
   "betterendforge:recipes/betterendforge/helix_tree_planks": {
     "criteria": {
       "has_the_recipe": "2021-01-17 02:10:20 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-01-22 17:10:32 +1100"
     },
     "done": true
   },
@@ -13872,6 +13897,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2021-01-22 17:09:05 +1100"
+    },
+    "done": true
+  },
   "botania:recipes/botania/metamorphic_mesa_bricks_slab": {
     "criteria": {
       "has_the_recipe": "2021-01-17 02:10:19 +1100"
@@ -16425,6 +16456,12 @@
   "aiotbotania:recipes/aiotbotania/livingwood_shovel": {
     "criteria": {
       "has_the_recipe": "2021-01-17 02:10:22 +1100"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-01-22 17:07:51 +1100"
     },
     "done": true
   },
@@ -22731,6 +22768,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-01-22 17:07:51 +1100"
+    },
+    "done": true
+  },
   "ironshulkerbox:recipes/ironshulkerbox/shulkerboxes/yellow/diamond/gold_diamond_shulker_box": {
     "criteria": {
       "has_the_recipe": "2021-01-17 02:10:19 +1100"
@@ -25101,6 +25144,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2021-01-22 17:09:05 +1100"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/white_sandstone": {
     "criteria": {
       "has_the_recipe": "2021-01-17 02:10:21 +1100"
@@ -25563,6 +25612,12 @@
     },
     "done": true
   },
+  "woot:main/root": {
+    "criteria": {
+      "killed_something": "2021-01-22 17:10:32 +1100"
+    },
+    "done": true
+  },
   "botania:recipes/botania/pump": {
     "criteria": {
       "has_the_recipe": "2021-01-17 02:10:17 +1100"
@@ -25626,6 +25681,12 @@
   "biomesoplenty:recipes/building_blocks/cut_white_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2021-01-17 02:10:20 +1100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:enderman": "2021-01-22 17:35:34 +1100"
     },
     "done": true
   },

@@ -1,15 +1,15 @@
 {
-    "item.bloodmagic.sand_hellforged": "Hellforged Sand",
-    "block.bloodmagic.mimic": "Mimic",
-    "block.bloodmagic.ethereal_mimic": "Ethereal Mimic",
-    "block.bloodmagic.nether_soil": "Nether Soil",
-    "block.bloodmagic.creeping_doubt": "Creeping Doubt",
-    "block.bloodmagic.dungeon_metal": "Dungeon Metal",
-    "item.bloodmagic.doubt_bucket": "Doubt Bucket",
-    "item.bloodmagic.demonwillgauge": "Demon Will Gauge",
-    "item.bloodmagic.corrupted_dust": "Corrupted Dust",
-    "item.bloodmagic.corrupted_tinydust": "Tiny Corrupted Dust",
-    "item.bloodmagic.dungeon_tester": "Dungeon Tester",
-    "fluid.bloodmagic.doubt_fluid": "Liquid Doubt",
-    "fluid.bloodmagic.life_essence_fluid": "Liquid Life Essence"
+	"item.bloodmagic.sand_hellforged": "Hellforged Sand",
+	"block.bloodmagic.mimic": "Mimic",
+	"block.bloodmagic.ethereal_mimic": "Ethereal Mimic",
+	"block.bloodmagic.nether_soil": "Nether Soil",
+	"block.bloodmagic.creeping_doubt": "Creeping Doubt",
+	"block.bloodmagic.dungeon_metal": "Dungeon Metal",
+	"item.bloodmagic.doubt_bucket": "Doubt Bucket",
+	"item.bloodmagic.demonwillgauge": "Demon Will Gauge",
+	"item.bloodmagic.corrupted_dust": "Corrupted Dust",
+	"item.bloodmagic.corrupted_tinydust": "Tiny Corrupted Dust",
+	"item.bloodmagic.dungeon_tester": "Dungeon Tester",
+	"fluid.bloodmagic.doubt_fluid": "Liquid Doubt",
+	"fluid.bloodmagic.life_essence_fluid": "Liquid Life Essence"
 }

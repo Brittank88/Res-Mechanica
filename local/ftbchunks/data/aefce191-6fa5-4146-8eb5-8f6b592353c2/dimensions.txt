@@ -1,2 +1,4 @@
 minecraft:overworld
 theabyss:theabyssdim
+minecraft:the_nether
+minecraft:the_end

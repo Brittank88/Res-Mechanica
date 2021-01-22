@@ -4,11 +4,11 @@
   "god": false,
   "nick": "",
   "lastSeen": {
-    "dim": "minecraft:overworld",
-    "x": 1200,
-    "y": 87,
-    "z": 1516,
-    "time": 1611294858843
+    "dim": "minecraft:the_end",
+    "x": 446,
+    "y": 64,
+    "z": -1436,
+    "time": 1611297360042
   },
   "recording": 0,
   "teleportHistory": [
