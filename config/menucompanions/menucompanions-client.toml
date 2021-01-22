@@ -33,5 +33,5 @@ Size = 60
 #Hurt player when clicked.
 "Hurt Player" = true
 #Blacklist for excluding entities. Entries will be added automatically when problematic entities are detected.
-Blacklist = ["minecraft:ender_dragon", "minecraft:evoker_fangs", "minecraft:falling_block", "minecraft:area_effect_cloud", "minecraft:item", "minecraft:fishing_bobber"]
+Blacklist = ["minecraft:ender_dragon", "minecraft:evoker_fangs", "minecraft:falling_block", "minecraft:area_effect_cloud", "minecraft:item", "minecraft:fishing_bobber", "minecraft:strider", "minecraft:zombified_piglin", "minecraft:player", "minecraft:piglin_brute", "minecraft:wither_skeleton", "minecraft:piglin", "minecraft:hoglin", "minecraft:enderman", "minecraft:chicken", "minecraft:ghast", "minecraft:magma_cube", "minecraft:blaze", "minecraft:skeleton"]
 

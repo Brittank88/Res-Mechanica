@@ -144,6 +144,8 @@
 #73753E minecraft:oak_fence
 #AD9EB5 minecraft:oak_leaves
 #BBA6D1 minecraft:oak_log
+#E3886A minecraft:oak_planks
+#374FD3 minecraft:oak_slab
 #72BC63 minecraft:oak_stairs
 #855CF4 minecraft:oak_trapdoor
 #4A5E4E minecraft:obsidian
