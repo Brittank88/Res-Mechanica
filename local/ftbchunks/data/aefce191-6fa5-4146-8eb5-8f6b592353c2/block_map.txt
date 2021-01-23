@@ -36,6 +36,7 @@
 #39C21F quark:basalt
 #8E68FE quark:basalt_speleothem
 #840F59 minecraft:bedrock
+#7C938F create:belt
 #3DE8FE minecraft:birch_leaves
 #B78DDF minecraft:birch_sign
 #7BA036 minecraft:birch_wall_sign
@@ -44,6 +45,7 @@
 #657B45 minecraft:bone_block
 #7F5F84 theabyss:bone_block_abyss
 #8F453F theabyss:bone_block_thin
+#E6D6BA create:brass_tunnel
 #207534 minecraft:brown_mushroom
 #F82DAB minecraft:brown_wall_banner
 #5C47C2 biomesoplenty:bush
@@ -58,10 +60,15 @@
 #C3DAEA minecraft:chiseled_sandstone
 #182B07 minecraft:chorus_flower
 #0DA685 minecraft:chorus_plant
+#6C1458 quark:chorus_twist
+#8E1B57 quark:chorus_weeds
+#7FDE54 minecraft:clay
 #DE242D minecraft:coal_ore
+#FE4F0A minecraft:coarse_dirt
 #058353 minecraft:cobblestone
 #3D8BFC minecraft:cobblestone_stairs
 #74DB3C minecraft:cobblestone_wall
+#B76D44 create:cogwheel
 #E2D601 minecraft:composter
 #621AE2 computercraft:computer_command
 #AA7746 computercraft:computer_normal
@@ -73,9 +80,12 @@
 #306005 minecraft:cracked_stone_bricks
 #ED7046 theabyss:craftblock
 #DFC019 mekanism:creative_energy_cube
+#73CA69 create:creative_motor
 #59E2AB quark:crimson_chest
 #182273 minecraft:crimson_nylium
 #3F201C minecraft:crimson_stem
+#7DF6E7 create:crushing_wheel
+#D3B37C create:crushing_wheel_controller
 #E9A8F5 minecraft:crying_obsidian
 #14C49F ironchest:crystal_chest
 #485192 ironshulkerbox:crystal_shulker_box_white
@@ -109,6 +119,9 @@
 #622CB1 minecraft:end_portal_frame
 #987FC1 mysticalagradditions:end_prosperity_ore
 #A8CFF4 minecraft:end_stone
+#C75C69 minecraft:end_stone_brick_slab
+#C905F9 minecraft:end_stone_brick_wall
+#0EF243 minecraft:end_stone_bricks
 #D91F0F betterendforge:ender_ore
 #34113A envirocore:energy_source
 #4EDAA8 betterendforge:eternal_pedestal
@@ -127,6 +140,7 @@
 #A60E2C betterendforge:flavolite_tiles
 #6364EE cyclic:flower_cyan
 #FC7434 biomesoplenty:flowering_oak_leaves
+#5F7D4C create:flywheel
 #970D38 theabyss:fusionflower
 #482EEB minecraft:glowstone
 #2C1BE1 minecraft:gold_block
@@ -152,10 +166,12 @@
 #E234CE minecraft:jungle_fence_gate
 #1251F6 theabyss:jungle_flower
 #C1E251 minecraft:jungle_leaves
+#6C55C8 create:large_cogwheel
 #83CED3 minecraft:lava
 #9C0C0D woot:layout
 #752808 envirocore:lens_grinder
 #746434 create:limestone
+#179590 create:linear_chassis
 #5B677F theabyss:loranore
 #DE9468 minecraft:magma_block
 #FB1210 astralsorcery:marble_bricks
@@ -170,6 +186,8 @@
 #F093B4 minecraft:mossy_cobblestone_slab
 #2F738D minecraft:mossy_stone_brick_slab
 #483B67 minecraft:mossy_stone_bricks
+#7D636D quark:myalite
+#5E7A64 quark:myalite_crystal
 #974DF9 forbidden_arcanus:mysterywood_sign
 #5DD67D minecraft:nether_gold_ore
 #C3B6C0 mysticalagradditions:nether_inferium_ore
@@ -180,6 +198,7 @@
 #454322 minecraft:netherrack
 #9182A4 quark:netherrack_speleothem
 #CADBB6 thermal:nickel_ore
+#B4A58E create:nixie_tube
 #73753E minecraft:oak_fence
 #AD9EB5 minecraft:oak_leaves
 #BBA6D1 minecraft:oak_log
@@ -194,6 +213,7 @@
 #8F6314 minecraft:orange_tulip
 #F6678E minecraft:oxeye_daisy
 #BD0150 pamhc2trees:pamtamarind
+#8063D2 forbidden_arcanus:petrified_root
 #9D0C78 pneumaticcraft:plastic_brick_white
 #043CB3 theabyss:poisonore
 #6A5197 minecraft:polished_andesite
@@ -201,7 +221,12 @@
 #AFAC0D minecraft:poppy
 #6DC9E1 minecraft:potted_cactus
 #E6B35B minecraft:pumpkin
+#584461 minecraft:purpur_block
+#E3975C minecraft:purpur_pillar
+#1F602C minecraft:purpur_slab
+#981A7C minecraft:purpur_stairs
 #F0410F appliedenergistics2:quartz_ore
+#39D68A create:radial_chassis
 #025439 minecraft:red_mushroom
 #24BE64 minecraft:redstone_torch
 #F62229 theabyss:ricom_flower
@@ -216,6 +241,7 @@
 #FD7AC1 byg:scoria_stone
 #705189 minecraft:sea_lantern
 #9A0A3C pneumaticcraft:sentry_turret
+#D3CCFE create:shaft
 #969FCD theabyss:shroomblock1
 #969FCE theabyss:shroomblock2
 #969FCF theabyss:shroomblock3
@@ -241,6 +267,7 @@
 #AB8093 mysticalagriculture:soulstone
 #EE7EAC theabyss:spread_dirt
 #13F5AC minecraft:spruce_leaves
+#4762B7 create:sticky_mechanical_piston
 #753082 minecraft:sticky_piston
 #DC3458 minecraft:stone
 #B21185 minecraft:stone_brick_slab
@@ -252,6 +279,7 @@
 #9209D8 minecraft:terracotta
 #31CF31 theabyss:testarcane
 #F188BC mysticalworld:tin_ore
+#52FD2D minecraft:tnt
 #750605 computercraft:turtle_normal
 #89C1BB mekanism:ultimate_energy_cube
 #C10E6D mekanism:ultimate_mechanical_pipe
@@ -260,6 +288,7 @@
 #88779D minecraft:vine
 #BFB951 betterendforge:violecite_slab
 #C586A1 betterendforge:violecite_stairs
+#AAF4B7 create:water_wheel
 #1C0619 waystones:waystone
 #1B60CF minecraft:white_tulip
 #DBA41E minecraft:white_wall_banner

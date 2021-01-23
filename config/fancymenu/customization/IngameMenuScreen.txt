@@ -1,0 +1,19 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screen.IngameMenuScreen
+  renderorder = foreground
+}
+
+customization {
+  orientation = bottom-right
+  buttonaction = opengui
+  x = -40
+  width = 40
+  action = addbutton
+  y = -20
+  label = Mods
+  value = net.minecraftforge.fml.client.gui.screen.ModListScreen
+  height = 20
+}
+

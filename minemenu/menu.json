@@ -44,54 +44,6 @@
           "clipboard": false
         }
       }
-    },
-    "6": {
-      "title": "Mine [Ping]",
-      "icon": {
-        "stack": "{id:\"ping:icon_mine\",Count:1b}"
-      },
-      "action": {
-        "key": {
-          "key": "ping.key.mine",
-          "toggle": false
-        }
-      }
-    },
-    "7": {
-      "title": "Look [Ping]",
-      "icon": {
-        "stack": "{id:\"ping:icon_look\",Count:1b}"
-      },
-      "action": {
-        "key": {
-          "key": "ping.key.look",
-          "toggle": false
-        }
-      }
-    },
-    "8": {
-      "title": "Goto [Ping]",
-      "icon": {
-        "stack": "{id:\"ping:icon_goto\",Count:1b}"
-      },
-      "action": {
-        "key": {
-          "key": "ping.key.goto",
-          "toggle": false
-        }
-      }
-    },
-    "9": {
-      "title": "Alert [Ping]",
-      "icon": {
-        "stack": "{id:\"ping:icon_alert\",Count:1b}"
-      },
-      "action": {
-        "key": {
-          "key": "ping.key.alert",
-          "toggle": false
-        }
-      }
     }
   },
   "Configurations": {
